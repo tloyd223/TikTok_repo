@@ -4,3 +4,6 @@ TikTok-repo
 2.user interaction
 1.Posting Videos
 2.Sharing content
+
+Allows us to communicate with other users
+
